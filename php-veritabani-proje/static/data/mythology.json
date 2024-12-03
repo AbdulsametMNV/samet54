@@ -1,0 +1,15 @@
+{
+    "odin": {
+        "name": "Odin",
+        "description": "Odin, İskandinav mitolojisinde ana tanrıdır. Bilgeliği, savaşçı ruhu ve büyü yetenekleri ile bilinir. Hugin ve Munin adında iki kargası vardır."
+    },
+    "thor": {
+        "name": "Thor",
+        "description": "Thor, gök gürültüsü ve yıldırım tanrısıdır. Çekici Mjölnir ile devleri alt eder ve tanrıları korur."
+    },
+    "loki": {
+        "name": "Loki",
+        "description": "Loki, hilekarlık ve yaramazlık tanrısıdır. Şekil değiştirme yetenekleri ile bilinir ve tanrılarla ilişkisi karmaşıktır."
+    }
+    
+}
